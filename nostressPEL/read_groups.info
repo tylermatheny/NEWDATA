@@ -1,0 +1,7 @@
+file	condition	replicate_num	total_mass	norm_mass	internal_scale	external_scale
+/scratch/Users/bhra4955/Parker-691/TRIM/TOPHAT/PEL1/accepted_hits.bam	SG	0	3.39832e+07	2.81169e+07	1.10899	1
+/scratch/Users/bhra4955/Parker-691/TRIM/TOPHAT/PEL2/accepted_hits.bam	SG	1	2.30794e+07	2.81169e+07	0.711469	1
+/scratch/Users/bhra4955/Parker-691/TRIM/TOPHAT/PEL3/accepted_hits.bam	SG	2	3.77106e+07	2.81169e+07	1.26374	1
+/scratch/Users/bhra4955/Parker-691/TRIM/TOPHAT/LYSU1/accepted_hits.bam	PEL	0	2.41809e+07	2.81169e+07	0.980057	1
+/scratch/Users/bhra4955/Parker-691/TRIM/TOPHAT/LYSU2/accepted_hits.bam	PEL	1	2.65755e+07	2.81169e+07	1.02373	1
+/scratch/Users/bhra4955/Parker-691/TRIM/TOPHAT/LYSU3/accepted_hits.bam	PEL	2	2.61735e+07	2.81169e+07	1.03959	1
