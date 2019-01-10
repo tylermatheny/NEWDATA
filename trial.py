@@ -32,5 +32,5 @@ for q in vals:
     x = 'gene_id.' + str(q)
     gene_id = gene_id.drop(gene_id[eval(x) < 1].index)
     merged_table = gene_id
-sns.pairplot(merged_table)
-sns.plt.show()
+sns_plot = sns.pairplot(merged_table)
+sns_plot.savefig('output.png')
