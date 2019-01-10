@@ -1,0 +1,5 @@
+param	value
+cmd_line	cuffdiff -p 64 -L LYS,LYSU -o /scratch/Users/bhra4955/Parker-691/STRESS/ /scratch/Users/bhra4955/OLDSCRIPTS/PBABEDC3/gencode.v29.annotation.gtf /scratch/Users/bhra4955/Parker-691/TRIM/TOPHAT/LYS1/accepted_hits.bam,/scratch/Users/bhra4955/Parker-691/TRIM/TOPHAT/LYS2/accepted_hits.bam,/scratch/Users/bhra4955/Parker-691/TRIM/TOPHAT/LYS3/accepted_hits.bam /scratch/Users/bhra4955/Parker-691/TRIM/TOPHAT/LYSU1/accepted_hits.bam,/scratch/Users/bhra4955/Parker-691/TRIM/TOPHAT/LYSU2/accepted_hits.bam,/scratch/Users/bhra4955/Parker-691/TRIM/TOPHAT/LYSU3/accepted_hits.bam 
+version	2.2.1
+SVN_revision	4237
+boost_version	104700

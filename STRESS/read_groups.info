@@ -1,0 +1,7 @@
+file	condition	replicate_num	total_mass	norm_mass	internal_scale	external_scale
+/scratch/Users/bhra4955/Parker-691/TRIM/TOPHAT/LYS1/accepted_hits.bam	LYS	0	2.43609e+07	2.45195e+07	0.939828	1
+/scratch/Users/bhra4955/Parker-691/TRIM/TOPHAT/LYS2/accepted_hits.bam	LYS	1	2.20095e+07	2.45195e+07	0.866509	1
+/scratch/Users/bhra4955/Parker-691/TRIM/TOPHAT/LYS3/accepted_hits.bam	LYS	2	2.49979e+07	2.45195e+07	0.908525	1
+/scratch/Users/bhra4955/Parker-691/TRIM/TOPHAT/LYSU1/accepted_hits.bam	LYSU	0	2.41809e+07	2.45195e+07	1.08728	1
+/scratch/Users/bhra4955/Parker-691/TRIM/TOPHAT/LYSU2/accepted_hits.bam	LYSU	1	2.65755e+07	2.45195e+07	1.14761	1
+/scratch/Users/bhra4955/Parker-691/TRIM/TOPHAT/LYSU3/accepted_hits.bam	LYSU	2	2.61735e+07	2.45195e+07	1.14223	1
