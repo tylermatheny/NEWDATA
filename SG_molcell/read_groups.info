@@ -1,0 +1,7 @@
+file	condition	replicate_num	total_mass	norm_mass	internal_scale	external_scale
+/scratch/Users/bhra4955/MOLCELL/SRX2857750/accepted_hits.bam	SG	0	4.21725e+07	3.27094e+07	1.25707	1
+/scratch/Users/bhra4955/MOLCELL/SRX2857751/accepted_hits.bam	SG	1	4.45745e+07	3.27094e+07	1.31541	1
+/scratch/Users/bhra4955/MOLCELL/SRX2857752/accepted_hits.bam	SG	2	4.49524e+07	3.27094e+07	1.31331	1
+/scratch/Users/bhra4955/MOLCELL/SRX2857753/accepted_hits.bam	TOT	0	2.78687e+07	3.27094e+07	0.899304	1
+/scratch/Users/bhra4955/MOLCELL/SRX2857754/accepted_hits.bam	TOT	1	2.43686e+07	3.27094e+07	0.760249	1
+/scratch/Users/bhra4955/MOLCELL/SRX2857755/accepted_hits.bam	TOT	2	2.21096e+07	3.27094e+07	0.700074	1

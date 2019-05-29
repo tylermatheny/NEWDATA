@@ -1,0 +1,5 @@
+param	value
+cmd_line	cuffdiff -p 64 -L SG,TOT -o /scratch/Users/bhra4955/MOLCELL/SG/ /scratch/Users/bhra4955/OLDSCRIPTS/PBABEDC3/gencode.v29.annotation.gtf /scratch/Users/bhra4955/MOLCELL/SRX2857750/accepted_hits.bam,/scratch/Users/bhra4955/MOLCELL/SRX2857751/accepted_hits.bam,/scratch/Users/bhra4955/MOLCELL/SRX2857752/accepted_hits.bam /scratch/Users/bhra4955/MOLCELL/SRX2857753/accepted_hits.bam,/scratch/Users/bhra4955/MOLCELL/SRX2857754/accepted_hits.bam,/scratch/Users/bhra4955/MOLCELL/SRX2857755/accepted_hits.bam 
+version	2.2.1
+SVN_revision	4237
+boost_version	104700

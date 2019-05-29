@@ -1,0 +1,7 @@
+file	condition	replicate_num	total_mass	norm_mass	internal_scale	external_scale
+/scratch/Users/bhra4955/PBABEDC3/NEW_TOPHAT/PB1/accepted_hits.bam	pbody	0	1.46877e+07	1.47658e+07	0.963424	1
+/scratch/Users/bhra4955/PBABEDC3/NEW_TOPHAT/PB2/accepted_hits.bam	pbody	1	1.32622e+07	1.47658e+07	0.815108	1
+/scratch/Users/bhra4955/PBABEDC3/NEW_TOPHAT/PB3/accepted_hits.bam	pbody	2	1.47442e+07	1.47658e+07	0.904546	1
+/scratch/Users/bhra4955/PBABEDC3/NEW_TOPHAT/TOT1/accepted_hits.bam	total	0	1.52417e+07	1.47658e+07	1.1411	1
+/scratch/Users/bhra4955/PBABEDC3/NEW_TOPHAT/TOT2/accepted_hits.bam	total	1	1.55297e+07	1.47658e+07	1.13853	1
+/scratch/Users/bhra4955/PBABEDC3/NEW_TOPHAT/TOT3/accepted_hits.bam	total	2	1.57377e+07	1.47658e+07	1.14022	1

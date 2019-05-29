@@ -1,0 +1,7 @@
+file	condition	replicate_num	total_mass	norm_mass	internal_scale	external_scale
+/scratch/Users/bhra4955/WEIL/TOPHAT/PB1/accepted_hits.bam	PB	0	4.63337e+07	3.77978e+07	0.937496	1
+/scratch/Users/bhra4955/WEIL/TOPHAT/PB2/accepted_hits.bam	PB	1	7.60353e+07	3.77978e+07	1.54108	1
+/scratch/Users/bhra4955/WEIL/TOPHAT/PB3/accepted_hits.bam	PB	2	4.63989e+07	3.77978e+07	0.953887	1
+/scratch/Users/bhra4955/WEIL/TOPHAT/TOT1/accepted_hits.bam	WT	0	2.06534e+07	3.77978e+07	0.745075	1
+/scratch/Users/bhra4955/WEIL/TOPHAT/TOT2/accepted_hits.bam	WT	1	2.54371e+07	3.77978e+07	0.906978	1
+/scratch/Users/bhra4955/WEIL/TOPHAT/TOT3/accepted_hits.bam	WT	2	2.70598e+07	3.77978e+07	1.14449	1

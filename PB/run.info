@@ -1,0 +1,5 @@
+param	value
+cmd_line	cuffdiff -p 64 -L PB,WT -o /scratch/Users/bhra4955/WEIL/PB/ /scratch/Users/bhra4955/OLDSCRIPTS/PBABEDC3/gencode.v29.annotation.gtf /scratch/Users/bhra4955/WEIL/TOPHAT/PB1/accepted_hits.bam,/scratch/Users/bhra4955/WEIL/TOPHAT/PB2/accepted_hits.bam,/scratch/Users/bhra4955/WEIL/TOPHAT/PB3/accepted_hits.bam /scratch/Users/bhra4955/WEIL/TOPHAT/TOT1/accepted_hits.bam,/scratch/Users/bhra4955/WEIL/TOPHAT/TOT2/accepted_hits.bam,/scratch/Users/bhra4955/WEIL/TOPHAT/TOT3/accepted_hits.bam 
+version	2.2.1
+SVN_revision	4237
+boost_version	104700

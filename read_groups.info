@@ -1,0 +1,7 @@
+file	condition	replicate_num	total_mass	norm_mass	internal_scale	external_scale
+/scratch/Users/bhra4955/180627_NB501447_0310_fastq/S4/accepted_hits.bam	PB	0	1.49295e+07	1.49993e+07	0.963775	1
+/scratch/Users/bhra4955/180627_NB501447_0310_fastq/S5/accepted_hits.bam	PB	1	1.34833e+07	1.49993e+07	0.815155	1
+/scratch/Users/bhra4955/180627_NB501447_0310_fastq/S6/accepted_hits.bam	PB	2	1.49711e+07	1.49993e+07	0.902332	1
+/scratch/Users/bhra4955/180627_NB501447_0310_fastq/S1/accepted_hits.bam	TOT	0	1.54126e+07	1.49993e+07	1.14167	1
+/scratch/Users/bhra4955/180627_NB501447_0310_fastq/S2/accepted_hits.bam	TOT	1	1.57701e+07	1.49993e+07	1.13967	1
+/scratch/Users/bhra4955/180627_NB501447_0310_fastq/S3/accepted_hits.bam	TOT	2	1.59849e+07	1.49993e+07	1.13723	1

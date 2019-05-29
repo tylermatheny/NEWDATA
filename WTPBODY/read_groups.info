@@ -1,0 +1,7 @@
+file	condition	replicate_num	total_mass	norm_mass	internal_scale	external_scale
+/scratch/Users/bhra4955/Parker-505/PB1/accepted_hits.bam	PB	0	6.23841e+07	5.85763e+07	0.863035	1
+/scratch/Users/bhra4955/Parker-505/PB2/accepted_hits.bam	PB	1	6.24797e+07	5.85763e+07	0.939276	1
+/scratch/Users/bhra4955/Parker-505/PB3/accepted_hits.bam	PB	2	5.76451e+07	5.85763e+07	0.85664	1
+/scratch/Users/bhra4955/Parker-505/WT1/accepted_hits.bam	TOT	0	5.35916e+07	5.85763e+07	1.06283	1
+/scratch/Users/bhra4955/Parker-505/WT2/accepted_hits.bam	TOT	1	5.77312e+07	5.85763e+07	1.20785	1
+/scratch/Users/bhra4955/Parker-505/WT3/accepted_hits.bam	TOT	2	5.55266e+07	5.85763e+07	1.17704	1

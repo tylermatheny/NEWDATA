@@ -1,0 +1,5 @@
+param	value
+cmd_line	cuffdiff -p 64 -L pbody,total -o /scratch/Users/bhra4955/PBABEDC3/PBG3BPKO /scratch/Users/bhra4955/PBABEDC3/newgenome.gff3 /scratch/Users/bhra4955/PBABEDC3/NEW_TOPHAT/PB1/accepted_hits.bam,/scratch/Users/bhra4955/PBABEDC3/NEW_TOPHAT/PB2/accepted_hits.bam,/scratch/Users/bhra4955/PBABEDC3/NEW_TOPHAT/PB3/accepted_hits.bam /scratch/Users/bhra4955/PBABEDC3/NEW_TOPHAT/TOT1/accepted_hits.bam,/scratch/Users/bhra4955/PBABEDC3/NEW_TOPHAT/TOT2/accepted_hits.bam,/scratch/Users/bhra4955/PBABEDC3/NEW_TOPHAT/TOT3/accepted_hits.bam 
+version	2.2.1
+SVN_revision	4237
+boost_version	104700
